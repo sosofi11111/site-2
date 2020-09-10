@@ -1,0 +1,49 @@
+<! DOCTYPE html >
+< html  lang = " pt-br " >
+  < cabeça >
+    <! - Meta tags Obrigatórias ->
+    < meta  charset = " utf-8 " >
+    < meta  name = " viewport " content = " width = device-width, initial-scale = 1, shrink-to-fit = no " >
+
+    <! - CSS de inicialização ->
+    < Vínculo  rel = " stylesheet " href =" https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css " integridade =" SHA384-MCw98 / SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO " crossorigin =" anonymous " >
+
+    < title > Responsivo do site </ title >
+  </ head >
+  < corpo >
+
+    < nav  class = " navbar navbar-expand-lg navbar-light bg-warning " >
+      < A  class = " navbar-brand " href =" # " > vaca
+        < img  src = " imagens / vaca.PNG " height = " 50 " width = " 50 " > </ a >
+      < button  class = " navbar-toggler " type = " button " data-toggle = " recolher " data-target = " #conteudoNavbarSuportado " aria-controls = " conteudoNavbarSuportado " aria- extended = " false " aria-label = " Alterna navegação " >
+        < span  class = " navbar-toggler-icon " > </ span >
+      </ botão >
+      < div  class = " collapse navbar-collapse " id = " conteudoNavbarSuportado " >
+        < ul  class = " navbar-nav mr-auto " >
+            < li  class = " nav-item active " >
+              < A  class = " nav-link " href =" # " > Início < extensão  class =" sr-only " > pagina inicial </ s > </ a >
+            </ li >
+          </ li >
+          < li  class = " nav-item " >
+            < A  class = " nav-link " href =" cadastro.html " > Cadastrar </ a >
+          </ li >
+          < li  class = " nav-item " >
+            < A  class = " nav-link " href =" produtos.html " > Produtos </ a >
+          </ li >
+        </ ul >
+        < form  class = " form-inline my-2 my-lg-0 " >
+          < input  class = " form-control mr-sm-2 " type = " search " placeholder = " Pesquisar " aria-label = " Pesquisar " >
+          < button  type = " button " class = " btn btn-primary " > Pesquisar </ button >
+        </ form >
+      </ div >
+    </ nav >
+        
+    </ div >
+
+    </ div >
+
+    < Roteiro  src = " https://code.jquery.com/jquery-3.3.1.slim.min.js " integridade =" SHA384-Q8i / X + 965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH + 8abtTE1Pi6jizo " crossorigin =" anonymous " > </ script de >
+< Roteiro  src = " https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integridade =" SHA384-ZMP7rVo3mIykV + 2 + 9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK / l8WvCWPIPm49 " crossorigin = " anônimo " > </ script >
+< Roteiro  src = " https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js " integridade =" SHA384-ChfqqxuZUCnJSK3 + MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW / JmZQ5stwEULTy " crossorigin =" anonymous " > </ script de >
+    </ body >
+</ html >
